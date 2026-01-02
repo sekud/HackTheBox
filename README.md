@@ -1,14 +1,18 @@
-# Hack The Box Notes & Tooling
+# Hack The Box – Labs & Documentation
 
-This repository contains generic notes, scripts, and methodology developed while practicing on Hack The Box labs.
+This repository serves as a central place to document hands-on cybersecurity practice related to Hack The Box.
 
-The focus is on:
-- Enumeration workflows
-- Tool usage and automation
-- Documentation and reporting practices
+Current content focuses on:
+- General methodology and workflows
+- Tool usage and helper scripts
+- Notes aimed at improving technical documentation and reporting
 
-No machine-specific walkthroughs, solutions, flags, or sensitive details are included.
+When machines are retired, this repository may also include:
+- Full writeups and walkthroughs
+- Detailed findings and lessons learned
 
-## Disclaimer
+## Content Policy
 
-This content is shared for educational purposes only and follows Hack The Box content guidelines.
+- No writeups, walkthroughs, or solutions for active Hack The Box machines are included
+- Machine-specific details are only documented after official retirement
+- All material is shared for educational purposes and follows Hack The Box guidelines
