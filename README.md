@@ -7,9 +7,7 @@ Current content focuses on:
 - Tool usage and helper scripts
 - Notes aimed at improving technical documentation and reporting
 
-When machines are retired, this repository may also include:
-- Full writeups and walkthroughs
-- Detailed findings and lessons learned
+In-depth writeups for retired Hack The Box machines are published on Medium, while GitHub is used for tools, scripts, and more technical material.
 
 ## Content Policy
 
